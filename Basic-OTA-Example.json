@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Version": "1.0.0",
-      "URL": "https://example.com/images/Basic-OTA-Example-ESP32_DEV-1.0.0.bin"
+      "URL": "https://github.com/gcbishal30/otaWebserver/blob/main/cor_prog.bin"
     }
   ]
 }
