@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Version": 1.0.0,
-      "URL": "https://github.com/gcbishal30/otaWebserver/blob/main/cor_prog.bin"
+      "URL": "https://github.com/gcbishal30/otaWebserver/raw/main/cor_prog.bin"
     }
   ]
 }
