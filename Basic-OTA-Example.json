@@ -4,7 +4,7 @@
       "Board": "ESP32S3_DEV",
       "Device": "34:85:18:40:BB:50",
       "Version": 1.0.0,
-      "URL": "https://example.com/Basic-OTA-Example-ESP32S3_DEV-1.0.0.bin"
+      "URL": "https://github.com/gcbishal30/otaWebserver/blob/main/cor_prog.bin"
     }
   ]
 }
