@@ -3,7 +3,7 @@
     {
       "Board": "ESP32S3_DEV",
       "Device": "34:85:18:40:BB:50",
-      "Version": 1.0.0,
+      "Version": "1.0.0",
       "URL": "https://github.com/gcbishal30/otaWebserver/edit/main/cor_prog.bin"
     }
   ]
