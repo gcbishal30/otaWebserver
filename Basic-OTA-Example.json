@@ -2,8 +2,9 @@
   "Configurations": [
     {
       "Board": "ESP32S3_DEV",
-      "Version": "1.0.1",
-      "URL": "https://example.com/images/Further-OTA-Examples-ESP32_DEV-1.0.0.bin"
+      "Device": "34:85:18:40:BB:50",
+      "Version": 1.0.0,
+      "URL": "https://github.com/gcbishal30/otaWebserver/edit/main/cor_prog.bin"
     }
   ]
 }
