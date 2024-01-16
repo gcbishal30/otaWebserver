@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Board": "ESP32S3_DEV",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "URL": "https://example.com/images/Further-OTA-Examples-ESP32_DEV-1.0.0.bin"
     }
   ]
